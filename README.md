@@ -5,14 +5,15 @@
 ## 👩‍💻 About Me
 
 専門実践教育訓練校を卒業後、独学でプログラミングを学習しています。  
-フロントエンドとバックエンドのフルスタックでの開発を希望しています。  
-自主的に提案・行動することを心がけております。  
-学習を怠らず、アウトプットを大切にしています。
+フロントエンドとバックエンドの両方の開発に取り組み、
+TypeScriptでのフルスタック開発とFastAPIでのバックエンド開発を中心に学習・実践しております。  
+チーム開発では、仕様を理解した上で、自分に何ができるかを考え、積極的にアイディアを出し、自主的に提案・行動することを心がけております。  
+学習を怠らず、学習した内容は、技術記事としてアウトプットし、理解を深めることを大切にしています。
 
-After graduating from a professional training school, I have been studying programming through self-directed learning.  
-I am aiming to work as a full-stack developer, handling both frontend and backend development.  
-I value taking initiative and proactively making proposals and taking action.  
-I am committed to continuous learning and place great importance on producing tangible outputs.
+After graduating from a professional training school, I have been studying programming through self-directed learning.
+I work on both frontend and backend development, with a primary focus on full-stack development using TypeScript and backend development with FastAPI.
+In team development, I strive to understand requirements thoroughly, think about how I can contribute, and proactively propose ideas and take initiative.
+I am committed to continuous learning and place great importance on deepening my understanding by turning what I learn into technical articles and other forms of output.
 
 ---
 
@@ -42,11 +43,12 @@ I am committed to continuous learning and place great importance on producing ta
 
 ## 👩‍💻 Skills
 - Dockerでの開発環境構築
-- Next.js を用いたフロントエンド開発
-- FastAPI / Node.js による REST API 設計・実装
+- Next.js を用いたフロントエンド開発（画面設計、API連携）
+- FastAPI / Node.js による REST API 設計・実装（CRUD・認証）
 - Firebase を用いた認証・データ管理
 - Prisma を使った DB 設計
-- GitHub Actions による簡単な CI 構築
+- Githubを用いたチーム開発の基本フロー
+- GitHub Actions による簡単なCI構築
 
 ---
 
@@ -81,6 +83,13 @@ I am committed to continuous learning and place great importance on producing ta
 </p>
 
 ---
+## 🤝 My Development Style
+- 分からない点は公式ドキュメントを優先して調査
+- ClaudeでのLLMを活用したコーディング
+- 小さく実装し、動かしながら改善
+- 学んだことはZennで言語化・アウトプット
+
+---
 ## ✍️ Tech Articles（Zenn）
 <p align="left">
   <a href="https://zenn.dev/YOUR_ZENN_ID">
@@ -93,11 +102,10 @@ I am committed to continuous learning and place great importance on producing ta
 ---
 ## 🚀 Goals
 
-自走できるフルスタックエンジニア。  
-自分が開発したプロダクトで世の中に価値を見出せるエンジニアを目指しています。
+自走できるフルスタックエンジニアとして、  
+自分が開発したプロダクトで世の中に価値を提供できる存在を目指しています。
 
-My goal is to become a self-driven full-stack engineer.
-I aspire to create products that bring real value to the world.
+My goal is to become a self-driven full-stack engineer who can deliver real value to the world through the products I build.
 
 ---
 ## 📫 Contact
