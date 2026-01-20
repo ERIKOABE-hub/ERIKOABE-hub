@@ -110,4 +110,4 @@ My goal is to become a self-driven full-stack engineer who can deliver real valu
 ---
 ## 📫 Contact
 - GitHub: https://github.com/ERIKOABE-hub
-- Zenn: https://zenn.dev/@eri_tech
+- Zenn: https://zenn.dev/eri_tech
