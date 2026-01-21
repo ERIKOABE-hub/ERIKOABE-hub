@@ -92,7 +92,7 @@ I am committed to continuous learning and place great importance on deepening my
 ---
 ## ✍️ Tech Articles（Zenn）
 <p align="left">
-  <a href="https://zenn.dev/YOUR_ZENN_ID">
+  <a href="https://zenn.dev/eri_tech">
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?style=flat&logo=zenn&logoColor=white" />
   </a>
 </p>
