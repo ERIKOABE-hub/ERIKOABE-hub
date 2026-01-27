@@ -79,7 +79,7 @@ I am committed to continuous learning and place great importance on deepening my
 ---
 ## 👥 Team Projects
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ERIKOABE-hub&repo=kazotore />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ERIKOABE-hub&repo=kazotore" />
 </p>
 
 ---
