@@ -79,9 +79,12 @@ I am committed to continuous learning and place great importance on deepening my
 ---
 ## 👥 Team Projects
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ERIKOABE-hub&repo=kazotore" />
+<a href="https://github.com/ERIKOABE-hub/kazotore">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ERIKOABE-hub&repo=kazotore&cache_seconds=1800" />
+</a>
+<a href="https://github.com/ERIKOABE-hub/Otoshidama -Investment.app ">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ERIKOABE-hub&repo=Otoshidama-Investment.app" />
-  
+</a>
 </p>
 
 
