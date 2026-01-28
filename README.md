@@ -54,19 +54,19 @@ I am committed to continuous learning and place great importance on deepening my
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ERIKOABE-hub&show_icons=true" />
 </p>
 
 ## 📈 Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ERIKOABE-hub&layout=compact" />
 </p>
 
 ---
 
 ## 👤 Personal Projects
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=REPOSITORY_NAME" />
+ 準備中.....
 </p>
 
 <!--
